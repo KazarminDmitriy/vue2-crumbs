@@ -1,0 +1,29 @@
+{
+  "name": "@phoenix91/vue2-crumbs",
+  "version": "0.1.0",
+  "description": "Breadcrumbs plugin for Vue.js 2",
+  "keywords": [
+    "breadcrumbs",
+    "vue",
+    "vue2",
+    "plugin",
+    "route",
+    "router",
+    "vue-router"
+  ],
+  "author": "Kazarmin Dmitriy",
+  "license": "MIT",
+  "homepage": "https://github.com/KazarminDmitriy/vue2-crumbs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KazarminDmitriy/vue2-crumbs.git"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash.get": "*",
+    "lodash.isobject": "*"
+  }
+}
